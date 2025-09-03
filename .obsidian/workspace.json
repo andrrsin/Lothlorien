@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0152d796347ae8d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd3be8523ec123cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -196,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "689212d85c063b71",
+  "active": "6529e640a0a8cc49",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled.md"
+    "Untitled.md",
+    "Welcome.md"
   ]
 }
