@@ -11,14 +11,10 @@
             "id": "6529e640a0a8cc49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6529e640a0a8cc49",
+  "active": "e039912a4fcddff1",
   "lastOpenFiles": [
     "Untitled.md",
     "Welcome.md",
