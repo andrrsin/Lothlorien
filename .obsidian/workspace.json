@@ -11,10 +11,14 @@
             "id": "6529e640a0a8cc49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -137,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -177,13 +183,13 @@
   },
   "active": "6529e640a0a8cc49",
   "lastOpenFiles": [
+    "Untitled.md",
     "Welcome.md",
     "Untitled.base",
     "create a link.md",
     "04 - Archive",
     "03 - Resources",
     "02 - Areas",
-    "01 - Projects",
-    "Untitled.md"
+    "01 - Projects"
   ]
 }
