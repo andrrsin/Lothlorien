@@ -154,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/CVVS.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CVVS"
+              "title": "Outline"
             }
           },
           {
@@ -195,10 +194,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "689212d85c063b71",
+  "active": "e7421c3dbc1e868d",
   "lastOpenFiles": [
-    "Untitled.md",
     "02 - Areas/CVVS.base",
+    "Untitled.md",
     "02 - Areas/Untitled.md",
     "Untitled 1.base",
     "2025-09-25.md",
