@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c829c1853d8a0f7c",
+        "id": "7e4f48707f334921",
         "type": "tabs",
         "children": [
           {
-            "id": "6529e640a0a8cc49",
+            "id": "8fc20f04bfda2930",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,6 +29,7 @@
       {
         "id": "0d07e055b7ed956d",
         "type": "tabs",
+        "dimension": 63.663967611336034,
         "children": [
           {
             "id": "689212d85c063b71",
@@ -71,6 +72,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "b029317442b9b859",
+        "type": "tabs",
+        "dimension": 36.336032388663966,
+        "children": [
+          {
+            "id": "6529e640a0a8cc49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -178,7 +194,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6529e640a0a8cc49",
+  "active": "8fc20f04bfda2930",
   "lastOpenFiles": [
     "04 - Archive/Untitled.md",
     "03 - Resources/Untitled.md",

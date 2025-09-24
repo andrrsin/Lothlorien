@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidian gruvbox",
   "accentColor": "#fe8019",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "theme": "obsidian"
 }
