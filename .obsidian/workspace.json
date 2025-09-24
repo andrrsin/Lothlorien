@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 - Areas/CVVS.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CVVS"
             }
           },
           {
@@ -173,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,11 +190,17 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e18d7a2dcc7da49",
+  "active": "689212d85c063b71",
   "lastOpenFiles": [
+    "Untitled.md",
+    "02 - Areas/CVVS.base",
+    "02 - Areas/Untitled.md",
+    "Untitled 1.base",
     "2025-09-25.md",
     "02 - Areas/CVVS",
     "03 - Resources/02 - Materials",
@@ -204,13 +211,9 @@
     "01 - Projects",
     "04 - Archive/Untitled.md",
     "03 - Resources/Untitled.md",
-    "02 - Areas/Untitled.md",
     "01 - Projects/Untitled.md",
-    "Untitled.md",
     "Welcome.md",
-    "Untitled.base",
     "create a link.md",
-    "04 - Archive",
-    "03 - Resources"
+    "04 - Archive"
   ]
 }
