@@ -11,12 +11,14 @@
             "id": "e8ee55a5b9d9b3cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf"
+                "file": "02 - Areas/CVVS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CVVS_Técnicas-CE1-Basic"
+              "icon": "lucide-file",
+              "title": "CVVS"
             }
           }
         ]
@@ -86,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
+                "file": "02 - Areas/CVVS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CVVS_Técnicas-CE1-Basic"
+              "title": "Graph of CVVS"
             }
           }
         ]
@@ -184,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
+                "file": "02 - Areas/CVVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CVVS_Técnicas-CE1-Basic"
+              "title": "Outgoing links from CVVS"
             }
           },
           {
@@ -213,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
+                "file": "02 - Areas/CVVS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CVVS_Técnicas-CE1-Basic"
+              "title": "Outline of CVVS"
             }
           },
           {
@@ -237,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,18 +258,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc805801890ee318",
+  "active": "e8ee55a5b9d9b3cc",
   "lastOpenFiles": [
+    "99 - Config/01 - Templates/Area.md",
+    "01 - Projects/CVVS Teoria.md",
+    "99 - Config/01 - Templates/Project.md",
+    "02 - Areas/CVVS.md",
+    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
+    "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
+    "03 - Resources/02 - Materials/CVV_Conceptos Generales.pdf",
+    "03 - Resources/02 - Materials/N-Conceptos.pdf",
     "03 - Resources/01 - Notes/Verificación.md",
     "PP.md",
-    "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
-    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "03 - Resources/01 - Notes/Validación.md",
-    "02 - Areas/CVVS.md",
-    "01 - Projects/CVVS Teoria.md",
-    "99 - Config/01 - Templates/Area.md",
     "99 - Config/01 - Templates/Note.md",
-    "99 - Config/01 - Templates/Project.md",
     "01 - Projects/Untitled.md",
     "01 - Projects/Project1.md",
     "02 - Areas/AREA1.md",
@@ -281,9 +286,7 @@
     "99 - Config/01 - Templates",
     "99 - Config",
     "02 - Areas/CVVS.base",
-    "Untitled 1.base",
     "2025-09-25.md",
-    "02 - Areas/CVVS",
     "04 - Archive/Untitled.md",
     "Welcome.md",
     "create a link.md"
