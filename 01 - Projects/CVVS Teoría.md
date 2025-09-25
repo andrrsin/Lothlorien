@@ -26,7 +26,7 @@ aliases:
 > [!question]- ¿Qué implica obtener calidad?
 > Podemos entender que implica que X tiene la habilidad de cumplir con lo que el cliente pide.
 
-[[P
+
 ## Related Resources
 ```dataview
 LIST rows.file.link
