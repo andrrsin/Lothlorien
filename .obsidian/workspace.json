@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8c3a8f259d9f3f3",
+        "id": "a40115ef2edba3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "53f570c723272bad",
+            "id": "d9851410bda8aee8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,7 +29,7 @@
       {
         "id": "0d07e055b7ed956d",
         "type": "tabs",
-        "dimension": 63.66396761133603,
+        "dimension": 58.40080971659919,
         "children": [
           {
             "id": "689212d85c063b71",
@@ -74,16 +74,71 @@
         ]
       },
       {
-        "id": "b029317442b9b859",
+        "id": "759770fcc91c33f9",
         "type": "tabs",
-        "dimension": 36.336032388663966,
+        "dimension": 41.59919028340081,
         "children": [
           {
-            "id": "6529e640a0a8cc49",
+            "id": "74339cbf7bebae10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#area  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#project  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#note  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#resource  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -196,14 +251,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53f570c723272bad",
+  "active": "d9851410bda8aee8",
   "lastOpenFiles": [
     "01 - Projects/Project1.md",
-    "03 - Resources/04 - Attachments",
+    "03 - Resources/01 - Notes/Untitled.md",
+    "03 - Resources/01 - Notes/NotaPrueba.md",
     "02 - Areas/AREA1.md",
+    "03 - Resources/04 - Attachments",
     "99 - Config/01 - Templates/Project.md",
     "99 - Config/01 - Templates/Area.md",
-    "03 - Resources/01 - Notes/NotaPrueba.md",
     "03 - Resources/Untitled 1.md",
     "03 - Resources/03 - Clippings",
     "03 - Resources/Untitled.md",
