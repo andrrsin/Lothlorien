@@ -14,4 +14,4 @@ Es importante tener muy en cuenta que un defecto pese a manifestar un [[Error]],
 Los defectos son analizados mediante las [[Pruebas Estáticas]], las cuales no ejecutan el programa, si no que lo analizan. Ejemplos de estas pruebas podrían buscar sobre la complejidad ciclomática u otros problemas.
 
 > [!success]
->  Es importante no dar la definición literal en [[CVVS Teoria]], esto ocurre tanto en un [[Error]], como en un [[Defecto]] o un [[Fallo]].
+>  Es importante no dar la definición literal en [[CVVS Teoría]], esto ocurre tanto en un [[Error]], como en un [[Defecto]] o un [[Fallo]].

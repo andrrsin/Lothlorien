@@ -16,4 +16,4 @@ aliases:
 En caso de que un error fuese cometido por una [[Inteligencia Artificial]] esto sería llamado **Alucinación**.
 
 > [!success]
->  Es importante no dar la definición literal en [[CVVS Teoria]], esto ocurre tanto en un [[Error]], como en un [[Defecto]] o un [[Fallo]].
+>  Es importante no dar la definición literal en [[CVVS Teoría]], esto ocurre tanto en un [[Error]], como en un [[Defecto]] o un [[Fallo]].

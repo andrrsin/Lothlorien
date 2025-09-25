@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/CVVS Teoria.md",
+                "file": "01 - Projects/CVVS Teoría.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CVVS Teoria"
+              "title": "CVVS Teoría"
             }
           },
           {
@@ -116,7 +116,7 @@
               "state": {
                 "file": "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -167,7 +167,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.6666666666666666,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
@@ -284,11 +284,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53263f16be025f62",
+  "active": "74339cbf7bebae10",
   "lastOpenFiles": [
-    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
+    "01 - Projects/CVVS Teoría.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
-    "01 - Projects/CVVS Teoria.md",
+    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "README.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-25 17.29.40.excalidraw.md",
     "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
