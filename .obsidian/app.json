@@ -4,5 +4,6 @@
   "userIgnoreFilters": [
     "99 - Config/01 - Templates/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }
