@@ -4,7 +4,7 @@ tags:
 date: "{{date}}"
 area:
 ---
-# AREA Project
+# A AREA Project
 ## TODO
 - [ ] todo
 

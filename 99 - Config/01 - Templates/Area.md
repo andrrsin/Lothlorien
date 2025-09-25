@@ -2,6 +2,7 @@
 tags:
   - area
 date: "{{date}}"
+aliases:
 ---
 # Linked Projects
 ```dataview

@@ -2,7 +2,8 @@
 tags:
   - "#resource"
   - "#note"
-date: "{{date}}"
+date: 2025-09-25
 area:
 aliases:
+  - IA
 ---
