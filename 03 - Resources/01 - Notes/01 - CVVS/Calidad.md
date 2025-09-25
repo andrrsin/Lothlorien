@@ -16,5 +16,6 @@ Se puede definir como la habilidad de X a cumplir con lo que pide el cliente
 Existen **dos tipos** de calidad principales, las cuales se centran en aspectos distintos. Nosotros nos centraremos sobre todo en el primero.
 - **Calidad del producto**: Grado en el que un producto software cumple con los requisitos y necesidades especificados.
 - **Calidad del proceso**: En qué medida se sigue el proceso y se cumple con los estándares.
+
 > [!danger]
-- 
+> NI SE ME OCURRA ESCRIBIR CALIDAD DEL PROCESO EN EL [[CVVS Teoría|EXAMEN]] PORQUE NO ES LO QUE HACEMOS
