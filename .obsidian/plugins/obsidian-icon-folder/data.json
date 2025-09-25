@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
       "LiLink",
       "LiFolder",
       "LiFolderOpen",
-      "LiSquareCode",
-      "LiChartGantt"
+      "LiSquareCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "01 - Projects": "LiChartGantt",
   "02 - Areas": "LiSquareCode",
   "03 - Resources": "LiLink",
-  "04 - Archive": "LiFolder"
+  "04 - Archive": "LiFolder",
+  "99 - Config": "LiSettings"
 }
