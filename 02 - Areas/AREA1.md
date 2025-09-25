@@ -1,12 +1,12 @@
 ---
 tags:
   - area
-date: "{{date}}"
+date: "2025-09-25"
 ---
 # Linked Projects
 ```dataview
 LIST
 FROM #project
-WHERE area = this.file.name
+WHERE area = [[]]
 SORT file.ctime ASC
 ```

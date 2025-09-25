@@ -1,8 +1,8 @@
 ---
 tags:
   - project
-date: "{{date}}"
-area:
+date: 2025-09-25
+area: "[[AREA1]]"
 ---
 
 # AREA Project
