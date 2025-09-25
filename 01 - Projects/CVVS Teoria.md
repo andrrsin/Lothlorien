@@ -6,7 +6,12 @@ area: "[[CVVS]]"
 ---
 # A [[CVVS]] Project
 ## TODO
-- [ ] todo
+- [ ] Enviar correo con preguntas sobre dudas
+- [ ] Añadir respuesta a Raquel a quien encuentra defectos y quien fallos.
+
+## Dudas
+- [ ] Quien encuentra los defectos y quien los fallos.
+- [ ] 
 
 # Preguntas de Examen
 

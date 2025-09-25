@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8ee55a5b9d9b3cc",
+            "id": "53263f16be025f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "53263f16be025f62",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Verificación"
             }
           },
           {
@@ -112,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Verificación"
             }
           }
         ]
@@ -210,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Verificación"
             }
           },
           {
@@ -239,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Verificación"
             }
           },
           {
@@ -259,11 +249,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,22 +272,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7421c3dbc1e868d",
+  "active": "53263f16be025f62",
   "lastOpenFiles": [
-    "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
-    "README.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Error.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
+    "01 - Projects/CVVS Teoria.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Error.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
+    "README.md",
     "03 - Resources/01 - Notes/01 - CVVS",
     "02 - Areas/CVVS.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
-    "01 - Projects/CVVS Teoria.md",
     "99 - Config/01 - Templates/Note.md",
     "99 - Config/01 - Templates/Area.md",
     "99 - Config/01 - Templates/Project.md",
-    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "03 - Resources/02 - Materials/CVV_Conceptos Generales.pdf",
     "03 - Resources/02 - Materials/N-Conceptos.pdf",
