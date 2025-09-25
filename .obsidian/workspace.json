@@ -249,12 +249,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,7 +271,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52633060ad1c451d",
+  "active": "e7421c3dbc1e868d",
   "lastOpenFiles": [
     "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
     "01 - Projects/CVVS Teoría.md",
