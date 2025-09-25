@@ -11,8 +11,10 @@ area:
 ## Related Resources
 ```dataview
 LIST rows.file.link
-FROM [[]]
+FROM [[]] OR outgoing([[]])
+WHERE !contains(tags, "area")
 FLATTEN area AS groups GROUP BY groups
+
 ```
 
 

@@ -16,7 +16,7 @@ SORT file.ctime ASC
 ```dataview
 LIST
 FROM [[]]
-WHERE !contains(tags, "project") or !contains(tags, "project")
+WHERE !contains(tags, "project")
 ```
 ## Material
 ## Clippings
