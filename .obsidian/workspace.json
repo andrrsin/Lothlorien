@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +196,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "58b59b5a8b2db0e2",
   "lastOpenFiles": [
     "01 - Projects/Exámen de Teoría CVVS.md",
     "99 - Config/01 - Templates/Project.md",
+    "Untitled.md",
     "99 - Config/01 - Templates",
     "99 - Config",
     "02 - Areas/CVVS.base",
-    "Untitled.md",
     "02 - Areas/Untitled.md",
     "Untitled 1.base",
     "2025-09-25.md",

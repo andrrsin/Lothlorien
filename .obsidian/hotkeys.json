@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:99 - Config/01 - Templates/Project.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
