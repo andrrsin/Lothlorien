@@ -4,16 +4,15 @@ tags:
 date: "{{date}}"
 area:
 ---
-
 # AREA Project
 ## TODO
 - [ ] todo
 
 ## Related Resources
 ```dataview
-LIST 
+LIST rows.file.link
 FROM [[]]
-GROUP BY area
+FLATTEN area AS groups GROUP BY groups
 ```
 
 

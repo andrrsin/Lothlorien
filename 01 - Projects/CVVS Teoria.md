@@ -4,17 +4,17 @@ tags:
 date: 2025-09-25
 area: "[[CVVS]]"
 ---
-
 # [[CVVS]] Project
 ## TODO
 - [ ] todo
 
 ## Related Resources
 ```dataview
-LIST 
+LIST rows.file.link
 FROM [[]]
-GROUP BY area
+FLATTEN area AS groups GROUP BY groups
 ```
+
 
 
 
