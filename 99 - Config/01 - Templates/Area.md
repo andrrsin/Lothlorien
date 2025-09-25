@@ -1,19 +1,11 @@
 ---
 tags:
-  - project
+  - area
 date: "{{date}}"
-area:
 ---
-
-# AREA Project
-
-## Linked to
+# Linked Projects
 ```dataview
 LIST 
 FROM [[]]
 GROUP BY area
 ```
-
-# TODOS
-- [ ] todo
-

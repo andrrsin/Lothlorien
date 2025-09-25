@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Config/01 - Templates/Project.md",
+                "file": "99 - Config/01 - Templates/Area.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "Area"
             }
           }
         ]
@@ -202,8 +202,12 @@
   },
   "active": "58b59b5a8b2db0e2",
   "lastOpenFiles": [
-    "02 - Areas/Untitled.md",
     "99 - Config/01 - Templates/Project.md",
+    "99 - Config/01 - Templates/Area.md",
+    "99 - Config/01 - Templates/Note.md",
+    "03 - Resources/Untitled 1.md",
+    "03 - Resources/Untitled.md",
+    "02 - Areas/Untitled.md",
     "01 - Projects/Exámen de Teoría CVVS.md",
     "Untitled.md",
     "99 - Config/01 - Templates",
@@ -218,7 +222,6 @@
     "03 - Resources",
     "02 - Areas",
     "04 - Archive/Untitled.md",
-    "03 - Resources/Untitled.md",
     "Welcome.md",
     "create a link.md"
   ]
