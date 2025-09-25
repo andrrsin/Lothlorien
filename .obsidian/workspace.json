@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "014d3f340700ec7e",
+            "id": "e3c46e613af9d058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+                "file": "Calidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validación"
-            }
-          },
-          {
-            "id": "366f7fc522efa6be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Revisiones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisiones"
+              "title": "Calidad"
             }
           },
           {
@@ -128,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+                "file": "Calidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Validación"
+              "title": "Graph of Calidad"
             }
           }
         ]
@@ -226,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+                "file": "Calidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Validación"
+              "title": "Outgoing links from Calidad"
             }
           },
           {
@@ -255,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+                "file": "Calidad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Validación"
+              "title": "Outline of Calidad"
             }
           },
           {
@@ -298,16 +284,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "014d3f340700ec7e",
+  "active": "e3c46e613af9d058",
   "lastOpenFiles": [
-    "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
+    "Calidad.md",
     "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Revisiones.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
+    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
     "Reviews.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Revisiones.md",
     "01 - Projects/CVVS Teoría.md",
-    "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "README.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-25 17.29.40.excalidraw.md",
     "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
@@ -336,7 +323,6 @@
     "03 - Resources/Untitled.md",
     "01 - Projects/Exámen de Teoría CVVS.md",
     "99 - Config/01 - Templates",
-    "2025-09-25.md",
-    "04 - Archive/Untitled.md"
+    "2025-09-25.md"
   ]
 }
