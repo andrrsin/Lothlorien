@@ -7,6 +7,6 @@ date: "{{date}}"
 ```dataview
 LIST
 FROM #project
-WHERE area = this.file.name
+WHERE area = [[]]
 SORT file.ctime ASC
 ```

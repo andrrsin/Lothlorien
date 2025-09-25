@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "03 - Resources/04 - Attachments",
+  "userIgnoreFilters": [
+    "99 - Config/01 - Templates/"
+  ]
 }

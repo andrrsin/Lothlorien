@@ -6,6 +6,8 @@ area:
 ---
 
 # AREA Project
+## TODO
+- [ ] todo
 
 ## Related Resources
 ```dataview
@@ -14,6 +16,5 @@ FROM [[]]
 GROUP BY area
 ```
 
-# TODOS
-- [ ] todo
+
 
