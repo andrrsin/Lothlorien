@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a40115ef2edba3fc",
+        "id": "305f3fb7db4561e5",
         "type": "tabs",
         "children": [
           {
-            "id": "d9851410bda8aee8",
+            "id": "07d71a6fc2b950fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/CVVS Teoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CVVS Teoria"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01 - Projects/CVVS Teoria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,14 +119,14 @@
                       "query": "tag:#note  ",
                       "color": {
                         "a": 1,
-                        "rgb": 11657298
+                        "rgb": 4556933
                       }
                     },
                     {
                       "query": "tag:#resource  ",
                       "color": {
                         "a": 1,
-                        "rgb": 5431378
+                        "rgb": 4834633
                       }
                     }
                   ],
@@ -135,12 +140,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.6666666666666666,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of CVVS Teoria"
             }
           }
         ]
@@ -237,7 +242,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,20 +256,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9851410bda8aee8",
+  "active": "07d71a6fc2b950fe",
   "lastOpenFiles": [
-    "01 - Projects/Project1.md",
-    "03 - Resources/01 - Notes/Untitled.md",
-    "03 - Resources/01 - Notes/NotaPrueba.md",
-    "02 - Areas/AREA1.md",
-    "03 - Resources/04 - Attachments",
+    "02 - Areas/CVVS.md",
+    "01 - Projects/CVVS Teoria.md",
+    "03 - Resources/01 - Notes/Verificación.md",
+    "03 - Resources/01 - Notes/Validación.md",
+    "99 - Config/01 - Templates/Note.md",
     "99 - Config/01 - Templates/Project.md",
+    "PP.md",
     "99 - Config/01 - Templates/Area.md",
+    "01 - Projects/Project1.md",
+    "02 - Areas/AREA1.md",
+    "03 - Resources/01 - Notes/NotaPrueba.md",
+    "Untitled.base",
+    "03 - Resources/04 - Attachments",
     "03 - Resources/Untitled 1.md",
     "03 - Resources/03 - Clippings",
     "03 - Resources/Untitled.md",
     "01 - Projects/Exámen de Teoría CVVS.md",
-    "99 - Config/01 - Templates/Note.md",
     "Untitled.md",
     "99 - Config/01 - Templates",
     "99 - Config",
@@ -274,7 +284,6 @@
     "02 - Areas/CVVS",
     "03 - Resources/02 - Materials",
     "03 - Resources/01 - Notes",
-    "04 - Archive",
     "04 - Archive/Untitled.md",
     "Welcome.md",
     "create a link.md"
