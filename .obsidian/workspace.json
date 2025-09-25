@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Notes/Fallo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fallo"
+              "title": "README"
+            }
+          },
+          {
+            "id": "53263f16be025f62",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -102,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/01 - Notes/Fallo.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +169,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fallo"
+              "title": "Graph of README"
             }
           }
         ]
@@ -200,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/01 - Notes/Fallo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fallo"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -229,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/01 - Notes/Fallo.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fallo"
+              "title": "Outline of README"
             }
           },
           {
@@ -249,12 +259,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,17 +281,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "689212d85c063b71",
+  "active": "e7421c3dbc1e868d",
   "lastOpenFiles": [
+    "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
+    "README.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Error.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
     "03 - Resources/01 - Notes/01 - CVVS",
-    "03 - Resources/01 - Notes/Defecto.md",
     "02 - Areas/CVVS.md",
-    "03 - Resources/01 - Notes/Error.md",
-    "03 - Resources/01 - Notes/Fallo.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
     "01 - Projects/CVVS Teoria.md",
-    "03 - Resources/01 - Notes/Validación.md",
-    "03 - Resources/01 - Notes/Verificación.md",
     "99 - Config/01 - Templates/Note.md",
     "99 - Config/01 - Templates/Area.md",
     "99 - Config/01 - Templates/Project.md",
@@ -301,10 +311,8 @@
     "03 - Resources/03 - Clippings",
     "03 - Resources/Untitled.md",
     "01 - Projects/Exámen de Teoría CVVS.md",
-    "Untitled.md",
     "99 - Config/01 - Templates",
     "99 - Config",
-    "02 - Areas/CVVS.base",
     "2025-09-25.md",
     "04 - Archive/Untitled.md",
     "Welcome.md",
