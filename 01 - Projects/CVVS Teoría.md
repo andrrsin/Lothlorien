@@ -21,7 +21,7 @@ aliases:
 > [!question]- ¿Cuál es la diferencia entre error, defecto y fallo?
 > **[[Error]]**: Al ser una accion humana o [[Error|Alucinación]] en caso de la IA, ==esto es algo indetectable.==
 > **[[Defecto]]**: Un defecto es un desperfecto que ==puede== causar un comportamiento indeseado en el programa. No tiene porque alterar el funcionamiento de dicho programa.
-> **[[Fallo]]**: 
+> **[[Fallo]]**:  Provienen de un defecto y son descubiertos al ejecutar el programa.
 
 > [!question]- ¿Cuál es la diferencia entre [[Verificación]] y [[Validación]]?
 > La diferencia principal esta en el punto de partida de cada uno. La verificación se centra en los **requisitos especificados**. Mientras que la validación se centra en los **requisitos pretendidos y/o las necesidades del usuario**, aunque no haya nada escrito previamente.
