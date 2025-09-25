@@ -9,9 +9,10 @@ area: "[[CVVS]]"
 - [ ] todo
 
 # Preguntas de Examen
+
 > [!question]- ¿Cuál es la diferencia entre error, defecto y fallo?
 > **[[Error]]**: Al ser una accion humana o [[Error|Alucinación]] en caso de la IA, ==esto es algo indetectable.==
-> 
+> **[[Defecto]]**: Un defecto es un desperfecto que ==puede== causar un comportamiento indeseado en el programa. No tiene porque alterar el funcionamiento de dicho programa.
 ## Related Resources
 ```dataview
 LIST rows.file.link

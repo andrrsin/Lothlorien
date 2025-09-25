@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Notes/Defecto.md",
+                "file": "03 - Resources/01 - Notes/Fallo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defecto"
+              "title": "Fallo"
             }
           },
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/01 - Notes/Defecto.md",
+                "file": "03 - Resources/01 - Notes/Fallo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Defecto"
+              "title": "Graph of Fallo"
             }
           }
         ]
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/01 - Notes/Defecto.md",
+                "file": "03 - Resources/01 - Notes/Fallo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Defecto"
+              "title": "Outgoing links from Fallo"
             }
           },
           {
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/01 - Notes/Defecto.md",
+                "file": "03 - Resources/01 - Notes/Fallo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defecto"
+              "title": "Outline of Fallo"
             }
           },
           {
@@ -272,19 +272,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8ee55a5b9d9b3cc",
+  "active": "689212d85c063b71",
   "lastOpenFiles": [
-    "01 - Projects/CVVS Teoria.md",
-    "03 - Resources/01 - Notes/Fallo.md",
-    "03 - Resources/01 - Notes/Error.md",
+    "03 - Resources/01 - Notes/01 - CVVS",
     "03 - Resources/01 - Notes/Defecto.md",
+    "02 - Areas/CVVS.md",
+    "03 - Resources/01 - Notes/Error.md",
+    "03 - Resources/01 - Notes/Fallo.md",
+    "03 - Resources/01 - Notes/Inteligencia Artificial.md",
+    "01 - Projects/CVVS Teoria.md",
+    "03 - Resources/01 - Notes/Validación.md",
     "03 - Resources/01 - Notes/Verificación.md",
     "99 - Config/01 - Templates/Note.md",
     "99 - Config/01 - Templates/Area.md",
-    "Inteligencia Artificial.md",
     "99 - Config/01 - Templates/Project.md",
-    "02 - Areas/CVVS.md",
-    "03 - Resources/01 - Notes/Validación.md",
     "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "03 - Resources/02 - Materials/CVV_Conceptos Generales.pdf",
