@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "CVVS Teoria"
             }
+          },
+          {
+            "id": "6bd0abadef74fccc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CVVS_Conceptos Generales"
+            }
           }
         ]
       }
@@ -275,13 +287,17 @@
   "active": "53263f16be025f62",
   "lastOpenFiles": [
     "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
-    "01 - Projects/CVVS Teoria.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
+    "01 - Projects/CVVS Teoria.md",
+    "README.md",
+    "03 - Resources/04 - Attachments/Drawing 2025-09-25 17.29.40.excalidraw.md",
+    "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
+    "Excalidraw",
+    "03 - Resources/04 - Attachments/Pasted image 20250925172916.png",
     "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
     "03 - Resources/01 - Notes/01 - CVVS/Error.md",
     "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
-    "README.md",
     "03 - Resources/01 - Notes/01 - CVVS",
     "02 - Areas/CVVS.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
@@ -303,7 +319,6 @@
     "03 - Resources/Untitled.md",
     "01 - Projects/Exámen de Teoría CVVS.md",
     "99 - Config/01 - Templates",
-    "99 - Config",
     "2025-09-25.md",
     "04 - Archive/Untitled.md",
     "Welcome.md",
