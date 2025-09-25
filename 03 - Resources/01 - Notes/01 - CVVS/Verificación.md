@@ -14,9 +14,11 @@ Podemos decir que la verificación responde a la pregunta:
 **¿Qué hay que hacer?**
 
 ![[Drawing 2025-09-25 17.29.40.excalidraw]]
+Como podemos ver en este grafico, la [[Verificación]] y la [[Validación]]. Son obtenidas mediante [[Revisiones]] o [[Revisiones|Reviews]] y las [[Pruebas]] o [[Pruebas|Testing]]. En conjunto, se logra conseguir [[Calidad]] para el producto de software.
 # Preguntas Frecuentes
 ## ¿Cómo diferenciarlo de [[Validación]]?
 La diferencia principal es el inicio de partida. En la [[Verificación]] el punto inicial son los requisitos preestablecidos. Por ello, se mira si el producto se construye ==correctamente==.
+
 > [!success]
 > Es importante saber diferenciarlo bien ya que es una pregunta común en [[CVVS Teoría]].
 ## ¿Quién las realizan?
