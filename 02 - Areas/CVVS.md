@@ -13,9 +13,11 @@ SORT file.ctime ASC
 # Resources
 ## Notes
 ```dataview
-LIST rows.file.link
+LIST
 FROM [[]]
-FLATTEN area AS groups GROUP BY groups
+WHERE !contains(tags, "project") or !contains(tags, "project")
 ```
 ## Material
+- [[CVVS_Conceptos Generales.pdf]]
+- [[CVVS_Técnicas-CE1-Basic.pdf]]
 ## Clippings
