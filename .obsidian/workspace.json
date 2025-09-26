@@ -47,8 +47,7 @@
               "title": "CVVS Teoría"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-09-26 16.50.29.excalidraw"
+              "title": "Graph of Pruebas Dinámicas"
             }
           }
         ]
@@ -320,10 +319,10 @@
       }
     ]
   },
-  "active": "f83016e9e77a5583",
+  "active": "b11442cb056f2278",
   "lastOpenFiles": [
-    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
     "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
     "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "01 - Projects/CVVS Teoría.md",
