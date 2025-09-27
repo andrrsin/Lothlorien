@@ -4,9 +4,8 @@ tags:
 date: "{{date}}"
 area:
 ---
-# A AREA Project
+
 ## TODO
-- [ ] todo
 
 ## Related Resources
 ```dataview
