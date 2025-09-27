@@ -18,4 +18,4 @@ Existen **dos tipos** de calidad principales, las cuales se centran en aspectos 
 - **Calidad del proceso**: En qué medida se sigue el proceso y se cumple con los estándares.
 
 > [!success]
-> NI SE ME OCURRA ESCRIBIR CALIDAD DEL PROCESO EN EL [[CVVS Teoría|EXAMEN]] PORQUE NO ES LO QUE HACEMOS
+> NI SE ME OCURRA ESCRIBIR CALIDAD DEL PROCESO EN EL [[Examen CVVS Teoría|EXAMEN]] PORQUE NO ES LO QUE HACEMOS

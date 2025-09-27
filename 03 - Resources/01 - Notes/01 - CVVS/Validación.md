@@ -23,7 +23,7 @@ Como podemos ver en este grafico, la [[Verificación]] y la [[Validación]]. Son
 La diferencia principal es el inicio de partida. En la [[Validación]] el punto inicial son los requisitos ==pretendidos y/o necesidades del usuario, aunque estos no estén escritos en ningún documento== . Por ello, se mira si el producto es el correcto.
 
 > [!success]
-> Es importante saber diferenciarlo bien ya que es una pregunta común en [[CVVS Teoría]].
+> Es importante saber diferenciarlo bien ya que es una pregunta común en el[[Examen CVVS Teoría]].
 ## ¿Quién las realizan?
 Todos participan de una manera u otra en el testing, ya sea el usuario, el cliente, el desarrollador o el tester.
 
