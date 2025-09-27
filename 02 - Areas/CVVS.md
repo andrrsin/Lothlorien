@@ -21,3 +21,5 @@ WHERE !contains(tags, "project")
 - [[CVVS_Conceptos Generales.pdf]]
 - [[CVVS_Técnicas-CE1-Basic.pdf]]
 ## Clippings
+- [[Correo Raquel Conceptos Generales]]
+- 
