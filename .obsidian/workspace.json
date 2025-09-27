@@ -1,44 +1,20 @@
 {
   "main": {
-    "id": "15961bde8e1e6c81",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4abd9503a18526f9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8c490560587c8881",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "99 - Config/Bienvenido Andrés!.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -27.71079757491411,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Bienvenido Andrés!"
-            }
-          },
-          {
-            "id": "b95a4f069aa4efdf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "99 - Config/Bienvenido Andrés!.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -90,
-                  "zoom": -0.04683316480987092
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Bienvenido Andrés!"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -108,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Config/Bienvenido Andrés!.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bienvenido Andrés!"
+              "title": "Graph view"
             }
           }
         ]
@@ -259,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,35 +252,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "689212d85c063b71",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 - Projects/Seminario CVVS.md",
-    "99 - Config/Bienvenido Andrés!.canvas",
+    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Pruebas.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Error.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
+    "02 - Areas/CVVS.md",
     "01 - Projects/Examen CVVS Teoría.md",
+    "99 - Config/Bienvenido Andrés!.canvas",
     "99 - Config/01 - Templates/Project.md",
+    "99 - Config/01 - Templates/Area.md",
+    "01 - Projects/Seminario CVVS.md",
     "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
     "03 - Resources/01 - Notes/01 - CVVS/Dominio.md",
     "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Situación de Prueba.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Pruebas.md",
-    "02 - Areas/CVVS.md",
     "03 - Resources/03 - Clippings/Correo Raquel Conceptos Generales.md",
     "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
     "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
     "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Calidad.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Error.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 17.30.44.excalidraw.md",
     "03 - Resources/01 - Notes/01 - CVVS/Peer Review.md",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Estáticas.md",
     "03 - Resources/01 - Notes/01 - CVVS/Revisiones.md",
-    "99 - Config/01 - Templates/Area.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
     "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
     "Excalidraw",
