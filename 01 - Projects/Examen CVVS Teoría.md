@@ -28,13 +28,15 @@ aliases:
 > [!question]- ¿Qué implica obtener [[Calidad]]?
 > Podemos entender que implica que X tiene la habilidad de cumplir con lo que el cliente pide.
 
-> [!question]- ¿Se puede decir que las pruebas estáticas son de caja negra y las dinámicas de caja blanca?
+> [!question]- ¿Se puede decir que las [[Pruebas Estáticas]] son de caja negra y las [[Pruebas Dinámicas]] de caja blanca?
 > No, son distintos tipos de clasificación y ambas pueden ser de ambas. En una nos centramos en la visibilidad y en otra por el tipo de ejecucción.
 
 # Info
 ## TODO
 - [ ] Añadir respuesta a Raquel a quien encuentra defectos y quien fallos.
 - [ ] Al terminar la asignatura quitar las ``[!success]`` por los recursos
+- [ ] Terminar Clases de Equivalencia
+- [ ] Rellenar y si es necesario Clippear para casos de prueba y para condicion de entrada
 ## Dudas
 - [ ] Diapositiva 3 Clases Equivalencia. Es lo mismo situación que situación a cubrir (test coverage Item)
 ## Related Resources

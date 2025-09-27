@@ -39,17 +39,21 @@
             "id": "5b6145318bccce76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - Projects/Examen CVVS Teoría.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Examen CVVS Teoría"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Partición en Clases de Equivalencia.md",
+                "file": "Untitled.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Partición en Clases de Equivalencia"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -281,52 +285,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "1e3b50541593a43d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "82f7a82879c531fe",
-        "type": "window",
-        "children": [
-          {
-            "id": "7d3e5b74770e52de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "13013f57ac6fdcbc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "CVVS_Técnicas-CE1-Basic"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 164,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8d555e12d3d880c3",
+  "active": "5b6145318bccce76",
   "lastOpenFiles": [
+    "01 - Projects/Examen CVVS Teoría.md",
+    "Untitled.canvas",
     "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "Partición en Clases de Equivalencia.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "Dominio.md",
-    "01 - Projects/Examen CVVS Teoría.md",
     "03 - Resources/01 - Notes/01 - CVVS/Situación de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
@@ -342,7 +312,6 @@
     "03 - Resources/01 - Notes/01 - CVVS/Error.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 17.30.44.excalidraw.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Peer Review.md",
     "99 - Config/01 - Templates/Project.md",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Estáticas.md",

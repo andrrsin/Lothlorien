@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"9040351d747d9d5b","x":-360,"y":-200,"width":250,"height":60,"type":"text","text":"```dataview\nTASK \nSORT file.name ASC\nGROUP BY file.link\n```"}
+	],
+	"edges":[]
+}
