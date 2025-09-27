@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "Partición en Clases de Equivalencia"
             }
+          },
+          {
+            "id": "940ffffde061c717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dominio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dominio"
+            }
+          },
+          {
+            "id": "5b6145318bccce76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Examen CVVS Teoría.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Examen CVVS Teoría"
+            }
           }
         ]
       }
@@ -297,12 +325,16 @@
   "lastOpenFiles": [
     "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "Partición en Clases de Equivalencia.md",
+    "Dominio.md",
+    "01 - Projects/Examen CVVS Teoría.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Situación de Prueba.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Pruebas.md",
     "02 - Areas/CVVS.md",
     "03 - Resources/03 - Clippings/Correo Raquel Conceptos Generales.md",
-    "01 - Projects/Examen CVVS Teoría.md",
     "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
     "03 - Resources/02 - Materials/CVVS_Conceptos Generales.pdf",
-    "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
     "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Calidad.md",
@@ -310,18 +342,14 @@
     "03 - Resources/01 - Notes/01 - CVVS/Error.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
     "03 - Resources/04 - Attachments/Drawing 2025-09-26 17.30.44.excalidraw.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Situación de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Peer Review.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
     "99 - Config/01 - Templates/Project.md",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Estáticas.md",
     "03 - Resources/01 - Notes/01 - CVVS/Revisiones.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Pruebas.md",
     "99 - Config/01 - Templates/Area.md",
     "03 - Resources/01 - Notes/Inteligencia Artificial.md",
     "Reviews.md",
-    "README.md",
     "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
     "Excalidraw",
     "03 - Resources/04 - Attachments/Pasted image 20250925172916.png",

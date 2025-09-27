@@ -2,8 +2,8 @@
 tags:
   - "#resource"
   - "#note"
-date: 2025-09-26
+date: 2025-09-27
 area:
 aliases:
-  - Test Coverage Item
+  - Dominios
 ---

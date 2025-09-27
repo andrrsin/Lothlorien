@@ -34,12 +34,9 @@ aliases:
 # Info
 ## TODO
 - [ ] Añadir respuesta a Raquel a quien encuentra defectos y quien fallos.
-- [x] Crear el proceso de las [[Pruebas Dinámicas]]
 - [ ] Al terminar la asignatura quitar las ``[!success]`` por los recursos
 ## Dudas
-- [ ] Quien encuentra los defectos y quien los fallos.
-- [ ] Correcta diferencia entre error, defecto y fallo?
-- [ ] Correcta entre diferencia validacion y verificacion
+- [ ] Diapositiva 3 Clases Equivalencia. Es lo mismo situación que situación a cubrir (test coverage Item)
 ## Related Resources
 ```dataview
 LIST rows.file.link

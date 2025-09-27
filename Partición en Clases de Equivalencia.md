@@ -12,12 +12,18 @@ aliases:
 > [!quote]
 > Representa un **conjunto de datos** para los que se supone que el programa tiene un **comportamiento similar**
 
+Estos conjuntos de datos suelen formar parte de un [[Dominio]], en caso de que haya distintos [[Dominio|Dominios]]. Estos se dividiran en distintas Clases de Equi
 # Partes de una Clase de Equivalencia
 Para entender mejor qué son las clases de equivalencia y como se distribuyen, utilizaremos el problema 1 de las diapositivas de [[CVVS_Técnicas-CE1-Basic.pdf|Clases de equivalencia 1 - Básicas]]. En el identificaremos las distintas partes.
 > [!question]- Problema 1
 > Un sistema determina el tipo de interés aplicable a un crédito en función del importe del principal. Para valores menores de 10.000 euros se aplica el 4%, para valores mayores de 50.000 euros se aplica el 1%, en el resto de casos se aplica el 2%
 
-- [[Situación de Prueba]]:
+- **[[Situación de Prueba]]**: Esto podemos definirlo como las entradas y las salidas,  es decir lo que usaremos para medir.
+	- *Entrada*: Importe
+	- *Salida*: Tipo de interés
+- **[[Condiciones de Prueba]]**: Que queremos cubrir, en caso de que esto sean solo entradas se puede llamar [[Condiciones de Prueba|Condiciones de Entrada]]
+	- En nuestro caso esto será el importe principal aplicado.
+- **División en Clases de Equivalencia**: Esta fase final consiste en la division
 # Notas de clase
 Las clases de equivalencia son divisibles en jerarquias.
 Si tengo un enumerado, cada uno de los valores deberia de ser una clase de equivalencia.
