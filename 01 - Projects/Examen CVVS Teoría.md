@@ -5,6 +5,7 @@ date: 2025-09-25
 area: "[[CVVS]]"
 aliases:
   - CVVS Teoría
+isFinished: false
 ---
 # Preguntas de Examen
 ## Tema 1: [[CVVS_Conceptos Generales.pdf|Conceptos Generales]]

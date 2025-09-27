@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "area": "multitext",
-    "date": "text"
+    "date": "text",
+    "finished": "checkbox"
   }
 }

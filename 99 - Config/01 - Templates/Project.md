@@ -3,6 +3,7 @@ tags:
   - project
 date: "{{date}}"
 area:
+isFinished: true
 ---
 
 ## TODO
