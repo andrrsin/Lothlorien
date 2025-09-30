@@ -3,7 +3,7 @@ tags:
   - project
 date: 2025-09-30
 area:
-  - "[[ESN Oviedo|ESN]]"
+  - "[[ESN Oviedo]]"
 isFinished: false
 ---
 
