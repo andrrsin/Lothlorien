@@ -25,17 +25,14 @@
             "id": "187a777f013a2964",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "99 - Config/Bienvenido Andrés!.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -90,
-                  "zoom": -0.04683316480987092
-                }
+                "file": "01 - Projects/Plataforma Local 2526a.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Bienvenido Andrés!"
+              "icon": "lucide-file",
+              "title": "Plataforma Local 2526a"
             }
           }
         ],
@@ -106,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Config/Bienvenido Andrés!.canvas",
+                "file": "01 - Projects/Plataforma Local 2526a.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bienvenido Andrés!"
+              "title": "Graph of Plataforma Local 2526a"
             }
           }
         ]
@@ -277,9 +274,9 @@
   },
   "active": "187a777f013a2964",
   "lastOpenFiles": [
+    "99 - Config/Bienvenido Andrés!.canvas",
     "01 - Projects/Plataforma Local 2526a.md",
     "02 - Areas/ESN Oviedo.md",
-    "99 - Config/Bienvenido Andrés!.canvas",
     "03 - Resources/01 - Notes/02 - ESN/Temáticas de PL.md",
     "03 - Resources/01 - Notes/02 - ESN",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
