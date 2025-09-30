@@ -13,9 +13,9 @@ isFinished: false
 - [ ] Formulario formaciones (Meana)
 - [ ] Hilo necesidades (Andrés)
 - [ ] Confirmar el albergue (Meana)
-- [ ] Solicitudes CMX proyector y maquina de chapas
-- [ ] Solicitudes CMPA proyector
-
+- [ ] Solicitudes CMX maquina de chapas (Ana)
+- [ ] Solicitudes CMX y CMPA proyector (Ana)
+- [ ] 
 ## Related Resources
 ```dataview
 LIST rows.file.link
