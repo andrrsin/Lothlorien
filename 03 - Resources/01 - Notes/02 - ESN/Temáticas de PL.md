@@ -8,8 +8,10 @@ area:
 aliases:
 ---
 # Palabras que contiene "PL"
-## Palabras con la vocal "a"
 - **PL**aga
 - **PL**aneta
-## Palabras con la vocal "e"
-- **PL**aneta
+- Miercoles
+- Bosque encantado
+- DnD
+- Viaje al **PL**uscuamperfecto
+- 
