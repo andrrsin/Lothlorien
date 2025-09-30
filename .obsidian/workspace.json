@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Plataforma Local 2526a.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plataforma Local 2526a"
+              "title": "Partición en Clases de Equivalencia"
+            }
+          },
+          {
+            "id": "77aab726d35d4ef5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -33,7 +43,7 @@
       {
         "id": "0d07e055b7ed956d",
         "type": "tabs",
-        "dimension": 58.400809716599184,
+        "dimension": 41.24374553252323,
         "children": [
           {
             "id": "689212d85c063b71",
@@ -80,7 +90,7 @@
       {
         "id": "759770fcc91c33f9",
         "type": "tabs",
-        "dimension": 41.599190283400816,
+        "dimension": 58.75625446747677,
         "children": [
           {
             "id": "74339cbf7bebae10",
@@ -88,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Projects/Plataforma Local 2526a.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Plataforma Local 2526a"
+              "title": "Graph of Partición en Clases de Equivalencia"
             }
           }
         ]
@@ -259,10 +269,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 - Projects/Examen CVVS Teoría.md",
+    "01 - Projects/Plataforma Local 2526a.md",
     "99 - Config/Bienvenido Andrés!.canvas",
     "03 - Resources/01 - Notes/02 - ESN/Temáticas de PL.md",
-    "01 - Projects/Plataforma Local 2526a.md",
-    "01 - Projects/Examen CVVS Teoría.md",
     "02 - Areas/ESN Oviedo.md",
     "03 - Resources/01 - Notes/02 - ESN",
     "03 - Resources/01 - Notes/01 - CVVS/Pruebas Dinámicas.md",
