@@ -14,4 +14,6 @@ aliases:
 - Bosque encantado
 - DnD
 - Viaje al **PL**uscuamperfecto
-- 
+- Tine**PL**as
+- **PL**asma
+- **Pl**antas vs Zombies
