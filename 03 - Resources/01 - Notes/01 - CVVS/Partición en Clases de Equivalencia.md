@@ -15,6 +15,13 @@ aliases:
 
 Estos conjuntos de datos suelen formar parte de un [[Dominio]], en caso de que haya distintos [[Dominio|Dominios]]. Estos se dividirán en distintas Clases de Equivalencia que no tienen porque estar relacionadas.
 # Identificación de  Clases de Equivalencias
+## Enumeraciones
+
+## Rangos
+
+## Valores lógicos
+
+## Jerarquía de clases
 
 
 ## Ejemplo: Problema 1

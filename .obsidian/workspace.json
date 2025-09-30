@@ -267,8 +267,47 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "7fc68f9f30335088",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1901ddc129b50357",
+        "type": "window",
+        "children": [
+          {
+            "id": "4aeb105167066a0c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b125389558bed16",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CVVS_Técnicas-CE1-Basic"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 172,
+        "y": 69,
+        "width": 1576,
+        "height": 991,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
+    "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
     "01 - Projects/Examen CVVS Teoría.md",
     "01 - Projects/Plataforma Local 2526a.md",
     "99 - Config/Bienvenido Andrés!.canvas",
@@ -284,9 +323,7 @@
     "99 - Config/01 - Templates/Project.md",
     "99 - Config/01 - Templates/Area.md",
     "01 - Projects/Seminario CVVS.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
     "03 - Resources/01 - Notes/01 - CVVS/Dominio.md",
-    "03 - Resources/02 - Materials/CVVS_Técnicas-CE1-Basic.pdf",
     "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Situación de Prueba.md",
     "03 - Resources/03 - Clippings/Correo Raquel Conceptos Generales.md",
