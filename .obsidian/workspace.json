@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Notes/02 - ESN/Temáticas de PL.md",
+                "file": "01 - Projects/Plataforma Local 2526a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temáticas de PL"
+              "title": "Plataforma Local 2526a"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/01 - Notes/02 - ESN/Temáticas de PL.md",
+                "file": "01 - Projects/Plataforma Local 2526a.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Temáticas de PL"
+              "title": "Graph of Plataforma Local 2526a"
             }
           }
         ]
