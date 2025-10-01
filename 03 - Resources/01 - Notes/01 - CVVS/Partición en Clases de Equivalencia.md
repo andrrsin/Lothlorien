@@ -16,13 +16,13 @@ aliases:
 Estos conjuntos de datos suelen formar parte de un [[Dominio]], en caso de que haya distintos [[Dominio|Dominios]]. Estos se dividirán en distintas Clases de Equivalencia que no tienen porque estar relacionadas.
 # Identificación de  Clases de Equivalencias
 ## Enumeraciones
-
+Cuando una [[Condiciones de Prueba|Condición de prueba]] es una enumeración. Se ha de plantear una clase de equivalencia para cada valor de ellos.
 ## Rangos
-
+Para los rangos númericos es mejor aplicar los [[Valores Límites]], 
 ## Valores lógicos
 
 ## Jerarquía de clases
-
+Cuando hay motivos para creer que los elementos de una clase, no van a ser tratados de la misma forma. ==Lo más sensato es dividir esa clase en otras más pequeñas==. Esto es la jerarquía de clases.
 
 ## Ejemplo: Problema 1
 Para entender mejor qué son las clases de equivalencia y como se distribuyen, utilizaremos el problema 1 de las diapositivas de [[CVVS_Técnicas-CE1-Basic.pdf|Clases de equivalencia 1 - Básicas]]. En el identificaremos las distintas partes.

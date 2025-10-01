@@ -37,6 +37,7 @@ isFinished: false
 - [ ] Añadir respuesta a Raquel a quien encuentra defectos y quien fallos.
 - [ ] Al terminar la asignatura quitar las ``[!success]`` por los recursos
 - [ ] Terminar Clases de Equivalencia
+- [ ] Terminar [[Valores Límites]]
 - [ ] Rellenar y si es necesario Clippear para casos de prueba y para condicion de entrada
 ## Dudas
 - [ ] Diapositiva 3 Clases Equivalencia. Es lo mismo situación que situación a cubrir (test coverage Item)
