@@ -40,7 +40,7 @@ Para entender mejor qué son las clases de equivalencia y como se distribuyen, u
 	- *Salida*: Tipo de interés
 - **[[Condiciones de Prueba]]**: Que queremos cubrir, en caso de que esto sean solo entradas se puede llamar [[Condiciones de Prueba|Condiciones de Entrada]]
 	- En nuestro caso esto será el importe principal aplicado.
-- **División en Clases de Equivalencia**: Esta fase final consiste en el desglose de las [[Condiciones de Prueba]]
+- **División en Clases de Equivalencia**: Esta fase final consiste en el desglose de las [[Condiciones de Prueba]], formando lo que se conoce como [[Diseño Plano]]
 	- Clases de Equivalencia **válidas**:
 		- Hasta 10.000€
 		- Entre 10.000€ y 5.000€
