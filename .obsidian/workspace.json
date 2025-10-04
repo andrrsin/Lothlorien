@@ -27,24 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Diseño Plano.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diseño Plano"
+              "title": "Casos de Prueba"
             }
           },
           {
-            "id": "6901a19801c68859",
+            "id": "3f32b0a2498a9480",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/04 - Attachments/Drawing 2025-10-04 19.28.08.excalidraw.md"
+                "file": "01 - Projects/Laboratorio de CVVS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-04 19.28.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Laboratorio de CVVS"
+            }
+          },
+          {
+            "id": "b241c8adc4579cf9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -115,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 - Resources/01 - Notes/01 - CVVS/Diseño Plano.md",
+                "file": "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,12 +179,12 @@
                   "repelStrength": 3.95833333333333,
                   "linkStrength": 0.296875,
                   "linkDistance": 250,
-                  "scale": 0.4444444444444444,
+                  "scale": 0.6666666666666666,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Diseño Plano"
+              "title": "Graph of Casos de Prueba"
             }
           }
         ]
@@ -286,13 +298,14 @@
   },
   "active": "168841219a8988a7",
   "lastOpenFiles": [
-    "03 - Resources/04 - Attachments/Drawing 2025-10-04 19.28.08.excalidraw.md",
+    "01 - Projects/Laboratorio de CVVS.md",
+    "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/01 - Notes/01 - CVVS/Diseño Plano.md",
+    "03 - Resources/04 - Attachments/Drawing 2025-10-04 19.28.08.excalidraw.md",
     "03 - Resources/01 - Notes/01 - CVVS/Partición en Clases de Equivalencia.md",
     "99 - Config/Bienvenido Andrés!.canvas",
     "01 - Projects/Examen CVVS Teoría.md",
     "03 - Resources/01 - Notes/01 - CVVS/Condiciones de Prueba.md",
-    "03 - Resources/01 - Notes/01 - CVVS/Casos de Prueba.md",
     "03 - Resources/03 - Clippings/Correo Raquel Conceptos Generales.md",
     "03 - Resources/01 - Notes/01 - CVVS/Defecto.md",
     "03 - Resources/01 - Notes/01 - CVVS/Fallo.md",
@@ -315,7 +328,6 @@
     "03 - Resources/01 - Notes/01 - CVVS/Validación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Verificación.md",
     "03 - Resources/01 - Notes/01 - CVVS/Calidad.md",
-    "03 - Resources/04 - Attachments/Drawing 2025-09-26 16.50.29.excalidraw.md",
     "03 - Resources/04 - Attachments/Pasted Image 20250925172958_009.png",
     "Excalidraw",
     "03 - Resources/04 - Attachments/Pasted image 20250925172916.png",
