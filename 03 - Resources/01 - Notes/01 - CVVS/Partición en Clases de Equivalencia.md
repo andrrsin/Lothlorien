@@ -18,9 +18,9 @@ Estos conjuntos de datos suelen formar parte de un [[Dominio]], en caso de que h
 ## Enumeraciones
 Cuando una [[Condiciones de Prueba|Condición de prueba]] es una enumeración. Se ha de plantear una clase de equivalencia para cada valor de ellos.
 ## Rangos
-Para los rangos númericos es mejor aplicar los [[Valores Límites]], 
+Para los rangos numéricos es mejor aplicar los [[Valores Límites]], 
 ## Valores lógicos
-
+Los valores lógicos serán divididos en ambas opciones Verdadero o Falso.
 ## Jerarquía de clases
 Cuando hay motivos para creer que los elementos de una clase, no van a ser tratados de la misma forma. ==Lo más sensato es dividir esa clase en otras más pequeñas==. Esto es la jerarquía de clases.
 
@@ -42,26 +42,3 @@ Para entender mejor qué son las clases de equivalencia y como se distribuyen, u
 	- Clases **inválidas**:
 		- Importe Negativo
 - Tras esto quedaría obtener los [[Casos de Prueba]]
-# Notas de clase
-Las clases de equivalencia son divisibles en jerarquias.
-Si tengo un enumerado, cada uno de los valores deberia de ser una clase de equivalencia.
-Miramos las condiciones de entrada las cuales salen de las entradas. Para los numeros mejor los valores limites
-
-
-## Problema 1
-Entradas:
-Importe
-Salida:
-Tipo de interés
-Condiciones de Prueba(al sacarla de la entrada solo, se puede llamar Condicione de entrada):
-Importe del principal
-Division en Clases de equivalencia[^1]:
-Clases de Equivalencia
-- Hasta 10.000€
-- Entre 10.000 y 5.000
-- Más de 50.000
-Clases inválidas:
-- Importe Negativo
-
-
-[^1]: Hay que tener en cuenta tambien las clases de equivalencia negativas

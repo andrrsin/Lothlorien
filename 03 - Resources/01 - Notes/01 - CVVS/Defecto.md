@@ -11,7 +11,8 @@ area:
 
 Es importante tener muy en cuenta que un defecto pese a manifestar un [[Error]], no tiene porqué manifestar un [[Fallo]]. Es decir, ==un defecto puede existir pero no alterar el funcionamiento de un programa.== El desperfecto que se habla puede ser dónde sea. Podría ser en la especificación, en la implementación, etc.
 
-Los defectos son analizados mediante las [[Pruebas Estáticas]], las cuales no ejecutan el programa, si no que lo analizan. Ejemplos de estas pruebas podrían buscar sobre la complejidad ciclomática u otros problemas.
+Los defectos son analizados mediante las [[Pruebas Estáticas]], las cuales no ejecutan el programa, si no que lo analizan. Ejemplos de estas pruebas podrían buscar sobre la complejidad ciclomática u otros problemas. Los defectos pueden ser detectados por cualquiera, usuario, developer, stakeholder... Cabe recordar que el producto software no es el programa, también los manuales, diagramas, especificación, diseño, etc.
+
 
 > [!success]
 >  Es importante no dar la definición literal en el [[Examen CVVS Teoría]], esto ocurre tanto en un [[Error]], como en un [[Defecto]] o un [[Fallo]].
