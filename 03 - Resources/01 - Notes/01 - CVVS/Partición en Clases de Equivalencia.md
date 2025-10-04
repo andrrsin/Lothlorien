@@ -18,9 +18,15 @@ Estos conjuntos de datos suelen formar parte de un [[Dominio]], en caso de que h
 ## Enumeraciones
 Cuando una [[Condiciones de Prueba|Condición de prueba]] es una enumeración. Se ha de plantear una clase de equivalencia para cada valor de ellos.
 ## Rangos
-Para los rangos numéricos es mejor aplicar los [[Valores Límites]], 
+Para los rangos de valores cada rango es una clase de equivalencia. También es recomendable aplicar la técnica los [[Valores Límites]]. Por ejemplo
+- **Ticket Joven **
+  - >= 18 años
+  - < 18 años
 ## Valores lógicos
 Los valores lógicos serán divididos en ambas opciones Verdadero o Falso.
+## Clases Inválidas
+Existe la posibilidad de que haya clases de equivalencia inválidas, que miren por ejemplo los valores negativos en algunos rangos o todo aquello que sean situaciones singulares que no debieran de permitirse. **Importante siempre tener en cuenta el 0 en esta fórmula, como Clase de Equivalencia**.
+
 ## Jerarquía de clases
 Cuando hay motivos para creer que los elementos de una clase, no van a ser tratados de la misma forma. ==Lo más sensato es dividir esa clase en otras más pequeñas==. Esto es la jerarquía de clases.
 

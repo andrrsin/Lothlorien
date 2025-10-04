@@ -38,7 +38,7 @@ isFinished: false
 - [ ] Terminar [[Valores Límites]]
 - [ ] Rellenar y si es necesario Clippear para casos de prueba y para condicion de entrada
 ## Dudas
-- [ ] Diapositiva 3 Clases Equivalencia. Es lo mismo situación que situación a cubrir (test coverage Item)
+- [x] Diapositiva 3 Clases Equivalencia. Es lo mismo situación que situación a cubrir (test coverage Item)
 ## Related Resources
 ```dataview
 LIST rows.file.link
